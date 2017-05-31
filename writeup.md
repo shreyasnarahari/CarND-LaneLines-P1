@@ -4,7 +4,7 @@
 
 
 
-# ** Finding Lane Lines on the Road**
+# Finding Lane Lines on the Road
 
 The goal of this project is to find the lane markings on the road using basic image processing techniques by connection/averaging/extrapolating 
 
